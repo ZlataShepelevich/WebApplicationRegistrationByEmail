@@ -1,0 +1,6 @@
+@WebApplicationRegistrationByEmail_HostAddress = http://localhost:5115
+
+GET {{WebApplicationRegistrationByEmail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
